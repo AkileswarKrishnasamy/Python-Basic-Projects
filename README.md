@@ -1,2 +1,3 @@
 # PYTHON
-JUST STARTED CODING IN PYTHON UPLOADING MY PRACTICE CODES
+Here I upload some basic python projects
+
